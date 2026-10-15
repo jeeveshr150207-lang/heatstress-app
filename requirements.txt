@@ -1,4 +1,7 @@
-streamlit>=1.37
+streamlit
+pandas
+altair
+anthropic
 requests
 python-dotenv
-pandas
+pyserial
